@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Here's a beautified and polished version of your README file for your AI Chatbot with Voice Interface project:
 
----
 
 # 🤖 **AI Chatbot with Voice Interface**
 
@@ -190,9 +187,7 @@ Made with ❤️ using Python, Flask, and AI magic ✨
 
 </div>
 
----
 
-Let me know if you want me to generate a Markdown file or add badges like GitHub stars, forks, or last updated indicators.
 =======
 # Veronica_Chatbot
 🤖 AI Chatbot with Voice Interface - A Flask web app featuring Groq-powered chat, voice input/output, and theme support. Combines natural language processing with speech synthesis for an interactive chat experience. #Python #Flask #AI #VoiceInterface
