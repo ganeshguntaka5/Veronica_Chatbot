@@ -188,7 +188,8 @@ Made with ❤️ using Python, Flask, and AI magic ✨
 </div>
 
 
-=======
+
 # Veronica_Chatbot
 🤖 AI Chatbot with Voice Interface - A Flask web app featuring Groq-powered chat, voice input/output, and theme support. Combines natural language processing with speech synthesis for an interactive chat experience. #Python #Flask #AI #VoiceInterface
->>>>>>> 748f58e10ae116cab7f2f86c3409be9c71b2fbbd
+
+
